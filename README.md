@@ -53,9 +53,9 @@ bash  envInstall.sh
 - `./greenplm/release` contains the paper's weights, training scripts, and testing scripts.
 - `./pretrained_weight` stores the pre-trained weights required for the training and testing phases of the project.
 - `./lava-vicuna_2024_4_Phi-3-mini-4k-instruct` is the weight directory for Phi-3.
-- `./dataset/T3D` is the 6M dataset proposed in this project.
-- `./dataset/T3D/stage_1/brief_1M_caption.json` is the dataset for Stage I.
-- `./dataset/T3D/stage_2/stage_2_data_210k.json` is the dataset for Stage II.
+- `./dataset/T3D` is the 6M T3D dataset proposed in this project.
+- `./dataset/T3D/stage_1/brief_1M_caption.json` is the dataset from T3D for Stage I.
+- `./dataset/T3D/stage_2/stage_2_data_210k.json` is the dataset from T3D for Stage II.
 
 ### Dataset Preparation
 
