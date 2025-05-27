@@ -88,7 +88,7 @@ The output JSON results are saved in `./release/paper/result_json/stage_3`.
 
 #### Weights Using All T3D Dataset
 <details>
-  <summary>We also provide weights trained using the entire T3D dataset, meaning we use 5M data points from T3D in Stage II, instead of just 210k as in our paper. (click to expand)</summary>
+  <summary>We also provide weights trained using the entire T3D dataset, meaning we use 5M data from T3D in Stage II, instead of just 210k as in our paper. (click to expand)</summary>
 
 ##### GreenPLM-0
 The model trained only on text data, i.e., (Stage I & Stage II).
