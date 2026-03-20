@@ -251,6 +251,9 @@ Together, Let's make LLM for 3D great!
 - [ShapeLLM](http://arxiv.org/abs/2402.17766): combines a  powerful point cloud encoder with LLM for embodied scenes.
 - [MiniGPT-3D](https://arxiv.org/pdf/2405.01413) : takes the first step toward efficient 3D-LLM, requiring only a single RTX 3090 GPU and one day of training time.
 
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TangYuan96/GreenPLM&type=date&legend=top-left)](https://www.star-history.com/#TangYuan96/GreenPLM&type=date&legend=top-left)
 
 ## 👏 Acknowledgements
 We would like to thank the authors of [PointLLM](https://github.com/OpenRobotLab/PointLLM), [Uni3D](https://github.com/baaivision/Uni3D), [Phi-3](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct), and [LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) for their great works and repos.
